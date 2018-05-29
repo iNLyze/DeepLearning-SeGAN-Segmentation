@@ -1,5 +1,5 @@
 # DeepLearning SeGAN Segmentation
-This contains an implementation of the SeGAN model for semantic segmentation introduced in https://arxiv.org/pdf/1703.10239.pdf
+This contains an implementation of the SeGAN model for semantic segmentation introduced in https://arxiv.org/pdf/1706.01805.pdf
 
 The model serves for semantic segmenation of image data and the authors have demonstrated its utility on cranial MRT images.
 
